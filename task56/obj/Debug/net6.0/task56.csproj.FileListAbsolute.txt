@@ -1,0 +1,15 @@
+F:\git\homework_8\task56\bin\Debug\net6.0\task56.exe
+F:\git\homework_8\task56\bin\Debug\net6.0\task56.deps.json
+F:\git\homework_8\task56\bin\Debug\net6.0\task56.runtimeconfig.json
+F:\git\homework_8\task56\bin\Debug\net6.0\task56.dll
+F:\git\homework_8\task56\bin\Debug\net6.0\task56.pdb
+F:\git\homework_8\task56\obj\Debug\net6.0\task56.csproj.AssemblyReference.cache
+F:\git\homework_8\task56\obj\Debug\net6.0\task56.GeneratedMSBuildEditorConfig.editorconfig
+F:\git\homework_8\task56\obj\Debug\net6.0\task56.AssemblyInfoInputs.cache
+F:\git\homework_8\task56\obj\Debug\net6.0\task56.AssemblyInfo.cs
+F:\git\homework_8\task56\obj\Debug\net6.0\task56.csproj.CoreCompileInputs.cache
+F:\git\homework_8\task56\obj\Debug\net6.0\task56.dll
+F:\git\homework_8\task56\obj\Debug\net6.0\refint\task56.dll
+F:\git\homework_8\task56\obj\Debug\net6.0\task56.pdb
+F:\git\homework_8\task56\obj\Debug\net6.0\task56.genruntimeconfig.cache
+F:\git\homework_8\task56\obj\Debug\net6.0\ref\task56.dll
